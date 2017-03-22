@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>background.wav</file>
+        <file>dead.wav</file>
+        <file>eat.wav</file>
+        <file>snakeimg/a.png</file>
+        <file>snakeimg/b.png</file>
+        <file>snakeimg/background.jpg</file>
+        <file>snakeimg/c.png</file>
+        <file>snakeimg/d.png</file>
+        <file>snakeimg/e.png</file>
+        <file>snakeimg/f.png</file>
+        <file>snakeimg/g.png</file>
+        <file>snakeimg/h.png</file>
+        <file>snakeimg/i.png</file>
+        <file>snakeimg/j.png</file>
+        <file>snakeimg/k.png</file>
+        <file>snakeimg/l.png</file>
+        <file>snakeimg/m.png</file>
+        <file>snakeimg/n.png</file>
+        <file>snakeimg/o.png</file>
+        <file>snakeimg/p.png</file>
+        <file>snakeimg/q.png</file>
+        <file>snakeimg/r.png</file>
+        <file>snakeimg/s.png</file>
+        <file>snakeimg/t.png</file>
+        <file>snakeimg/u.png</file>
+        <file>snakeimg/v.png</file>
+        <file>snakeimg/w.png</file>
+        <file>snakeimg/x.png</file>
+        <file>snakeimg/y.png</file>
+        <file>snakeimg/z.png</file>
+        <file>2.txt</file>
+    </qresource>
+</RCC>
